@@ -5,6 +5,7 @@
  * Ayush C
  * Jesse Z
  * Vincent Y
+ * Andrew N
 
 ## Details
 A dynamic full-stack web application that delivers a personalized Spotify Wrapped experience to users. Built using Django, React, Tailwind CSS, and the Spotify API, this project allows users to explore their listening habits with an engaging and responsive user interface.
